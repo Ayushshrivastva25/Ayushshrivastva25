@@ -10,12 +10,13 @@ At the same time, I explore **ethical hacking, red teaming, and cybersecurity** 
 
 👨‍💻 About Me  
 
-- 🌱 Currently learning: **Machine Learning (01CE0715)** & **Advanced Flutter**  
-- 🔒 Interested in: **Red Teaming, Ethical Hacking, Cybersecurity Projects**  
+- 🌱 Currently learning: **Machine Learning ** & **Advanced Flutter**  
+- 🔒 Interested in: **Red Teaming, Ethical Hacking, Flutter Projects**  
 - 💡 Working on:  
   - 🩺 **AyuWell** – Flutter-based health tracking app  
   - 📅 **Doctor-Patient Appointment App** – with real-time booking & chat  
-  - 🎥 **YouTube Channel – Hack and Shield** (Cybersecurity + Dev Content)  
+  - 🎥 **YouTube Channel – Hack and Shield** (Cybersecurity + Dev Content)
+
 - ✨ Fun Fact: My family calls me **Pulkit**  
 
 
@@ -44,15 +45,14 @@ At the same time, I explore **ethical hacking, red teaming, and cybersecurity** 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
 
 
-🌐 Connect with Me  
+### 🌐 Connect with Me  
 
-- 💼 [LinkedIn](www.linkedin.com/in/ayushrivastav)  
-- 📝 [Blog](https://ayush-portfolio-hazel.vercel.app/)  
-- 🎥 [YouTube – Hack and Shield](https://www.youtube.com/@HackandShield)  
-- 📷 [Instagram](https://instagram.com/nowayush)  
-- 💬 Discord: **(https://discord.gg/X4vPAnCJ)**  
-- 📧 Email: **ayushshrivastva25@gmail.com**  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushrivastav)  
+[![Blog](https://img.shields.io/badge/My%20Blog-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://ayush-portfolio-hazel.vercel.app/)  
+[![YouTube](https://img.shields.io/badge/YouTube-Hack%20and%20Shield-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@HackandShield)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nowayush)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/X4vPAnCJ)  
+[![Email](https://img.shields.io/badge/Email-ayushshrivastva25%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushshrivastva25@gmail.com)
 
 ### Support Me ☕  
 
