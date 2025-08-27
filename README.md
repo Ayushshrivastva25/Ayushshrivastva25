@@ -53,16 +53,14 @@ At the same time, I explore **ethical hacking, red teaming, and cybersecurity** 
 - 💬 Discord: **(https://discord.gg/X4vPAnCJ)**  
 - 📧 Email: **ayushshrivastva25@gmail.com**  
 
----
 
-## ☕ Support Me  
+Support Me ☕
+If you like my work, consider buying me a coffee!
 
-If you like my work and want to support my journey,  
-you can **buy me a coffee** here 👇  
+<a href="[https://www.buymeacoffee.com/yourusername](https://buymeacoffee.com/ayushshrivastva)" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" >
+</a>
 
-[![Buy Me a Coffee](https://buymeacoffee.com/ayushshrivastva)  
-
----
 
 ⭐️ _“Code. Secure. Innovate.”_
 
