@@ -54,12 +54,12 @@ At the same time, I explore **ethical hacking, red teaming, and cybersecurity** 
 - 📧 Email: **ayushshrivastva25@gmail.com**  
 
 
-Support Me ☕
-If you like my work, consider buying me a coffee!
+### Support Me ☕  
 
-<a href="[https://www.buymeacoffee.com/yourusername](https://buymeacoffee.com/ayushshrivastva)" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" >
-</a>
+If you like my work, you can support me here:  
+
+[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=yourusername&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/ayushshrivastva)
+
 
 
 ⭐️ _“Code. Secure. Innovate.”_
