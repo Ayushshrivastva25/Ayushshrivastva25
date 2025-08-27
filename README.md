@@ -60,7 +60,7 @@ At the same time, I explore **ethical hacking, red teaming, and cybersecurity** 
 If you like my work and want to support my journey,  
 you can **buy me a coffee** here 👇  
 
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange)]([https://www.buymeacoffee.com/your-link](https://buymeacoffee.com/ayushshrivatva))  
+[![Buy Me a Coffee](https://buymeacoffee.com/ayushshrivastva)  
 
 ---
 
