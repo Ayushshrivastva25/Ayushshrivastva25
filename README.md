@@ -15,7 +15,7 @@ At the same time, I explore **ethical hacking, red teaming, and cybersecurity** 
 - 💡 Working on:  
   - 🩺 **AyuWell** – Flutter-based health tracking app  
   - 📅 **Doctor-Patient Appointment App** – with real-time booking & chat  
-  - 🎥 **YouTube Channel – Hack and Shield** (Cybersecurity + Dev Content)
+
 
 - ✨ Fun Fact: My family calls me **Pulkit**  
 
