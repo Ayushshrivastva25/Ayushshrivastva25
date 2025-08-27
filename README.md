@@ -10,7 +10,7 @@ At the same time, I explore **ethical hacking, red teaming, and cybersecurity** 
 
 👨‍💻 About Me  
 
-- 🌱 Currently learning: **Machine Learning ** & **Advanced Flutter**  
+- 🌱 Currently learning: **Machine Learning** & **Advanced Flutter**  
 - 🔒 Interested in: **Red Teaming, Ethical Hacking, Flutter Projects**  
 - 💡 Working on:  
   - 🩺 **AyuWell** – Flutter-based health tracking app  
